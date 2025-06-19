@@ -1,0 +1,19 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "author": "logan-tm",
+  "type": "module",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "node --import=tsx src/main.ts",
+    "watch": "npx tsx watch src/main.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
