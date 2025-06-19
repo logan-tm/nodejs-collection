@@ -6,13 +6,23 @@ A curated portfolio showcasing my Node.js projects and development journey. This
 
 This repository acts as a portfolio showcase, highlighting my experience and growth in Node.js development. Each project represents different aspects of backend development, API design, database integration, and modern web technologies.
 
+## Sections
+
+### Section 1: REST APIs
+
+A deep dive into Node.js REST API frameworks and libraries, demonstrating how to build production-ready APIs using different approaches. Each project starts with a foundational implementation that fetches data from JSONPlaceholder, then evolves to showcase the unique capabilities and patterns of each framework. [View Section Details](sections/section-1-rest-apis.md)
+
+### Section 2: Working with Databases
+
+Currently planning!
+
 ## Projects
 
-| Project          | Description                                 | Status         | Technologies      | Link                         |
-| ---------------- | ------------------------------------------- | -------------- | ----------------- | ---------------------------- |
-| [Project Name 1] | Brief description of what this project does | 🟢 Active      | Express, MongoDB  | [View Project](link-to-repo) |
-| [Project Name 2] | Brief description of what this project does | 🟡 In Progress | PostgreSQL, Redis | [View Project](link-to-repo) |
-| [Project Name 3] | Brief description of what this project does | 🟢 Active      | GraphQL, JWT      | [View Project](link-to-repo) |
+| Project         | Description                                             | Status         | Technologies | Link                         | Section   |
+| --------------- | ------------------------------------------------------- | -------------- | ------------ | ---------------------------- | --------- |
+| ts-node-express | A basic express server that serves JSONPlaceholder Data | 🟡 In Progress | Express      | [View Project](link-to-repo) | REST APIs |
+| ts-node-fastify | TBD                                                     | 🟣 Planning    | Fastify      | [View Project](link-to-repo) | REST APIs |
+| ts-node-koa     | TBD                                                     | 🟣 Planning    | Koa          | [View Project](link-to-repo) | REST APIs |
 
 ## Status Legend
 
@@ -23,7 +33,7 @@ This repository acts as a portfolio showcase, highlighting my experience and gro
 
 ## Getting Started
 
-Feel free to explore any of the projects above. Each repository contains detailed documentation, setup instructions, and examples of the implemented features.
+Feel free to explore any of the sections above and the projects therein. Each repository contains detailed documentation, setup instructions, and examples of the implemented features.
 
 ## Contact
 
