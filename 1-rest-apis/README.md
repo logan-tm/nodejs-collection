@@ -4,7 +4,7 @@ A collection of basic REST APIs. That's it. Most will return JSON placeholder da
 
 ## What is the goal?
 
-To explore REST API libraries, look over middlewares, and get a service running in Node with best practices in mind.
+To explore REST API libraries, look over middlewares, and get a service running in Node with some best practices in mind. However, most features I would otherwise implement (such as logging, error structure, and pm2) are out of scope unless a framework brings in similar features to be compared.
 
 ## What am I looking for?
 
@@ -20,7 +20,7 @@ While most features are not planned to be implemented (such as authentication), 
 | fastify | On express' heels               |  ❌   |
 |     koa | On express' heels               |  ❌   |
 |  nestjs | An out-of-the-box solution      |  ❌   |
-|    hapi | _italic_                        |  ❌   |
+|    hapi |                                 |  ❌   |
 |    hono | Cloudflare's homemade framework |  ❌   |
 
 ✅
@@ -34,4 +34,4 @@ While most features are not planned to be implemented (such as authentication), 
 |            cors | Security           |
 | jest/mocha/chai | Testing            |
 |    winston/pino | Logging            |
-|             pm2 | Production-running |
+|     pm2 (maybe) | Production-running |
