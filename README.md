@@ -10,19 +10,19 @@ This repository acts as a portfolio showcase, highlighting my experience and gro
 
 ### Section 1: REST APIs
 
-A deep dive into Node.js REST API frameworks and libraries, demonstrating how to build production-ready APIs using different approaches. Each project starts with a foundational implementation that fetches data from JSONPlaceholder, then evolves to showcase the unique capabilities and patterns of each framework. [View Section Details](sections/section-1-rest-apis.md)
+A deep dive into Node.js REST API frameworks and libraries, demonstrating how to build production-ready APIs and exploring different framework options.
 
 ### Section 2: Working with Databases
 
-Currently planning!
+An exploration of working with various database solutions through the creation of an explorer application.
 
 ## Projects
 
-| Project         | Description                                             | Status         | Technologies | Link                         | Section   |
-| --------------- | ------------------------------------------------------- | -------------- | ------------ | ---------------------------- | --------- |
-| ts-node-express | A basic express server that serves JSONPlaceholder Data | 🟡 In Progress | Express      | [View Project](link-to-repo) | REST APIs |
-| ts-node-fastify | TBD                                                     | 🟣 Planning    | Fastify      | [View Project](link-to-repo) | REST APIs |
-| ts-node-koa     | TBD                                                     | 🟣 Planning    | Koa          | [View Project](link-to-repo) | REST APIs |
+| Project                                        | Description                                                                            | Status      | Technologies                                                 | Link                         | Section                |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------ | ---------------------------- | ---------------------- |
+| node-collection-production-grade-rest-api      | A REST API focusing on production-ready steps and functionality                        | 🟣 Planning | Express, related libraries                                   | [View Project](link-to-repo) | REST APIs              |
+| node-collection-rest-api-framework-exploration | A project containing the same REST API build using different frameworks                | 🟣 Planning | Express, Fastify, Koa, Hono                                  | [View Project](link-to-repo) | REST APIs              |
+| node-collection-database-explorer              | A webpage for connecting to, exploring the data of, and operating on various databases | 🟣 Planning | React, TanStack Router, Express, SQLite, PostgreSQL, MongoDB | [View Project](link-to-repo) | Working with Databases |
 
 ## Status Legend
 
