@@ -18,11 +18,11 @@ An exploration of working with various database solutions through the creation o
 
 ## Projects
 
-| Project                                        | Description                                                                            | Status      | Technologies                                                 | Link                         | Section                |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------ | ---------------------------- | ---------------------- |
-| node-collection-production-grade-rest-api      | A REST API focusing on production-ready steps and functionality                        | 🟣 Planning | Express, related libraries                                   | [View Project](link-to-repo) | REST APIs              |
-| node-collection-rest-api-framework-exploration | A project containing the same REST API build using different frameworks                | 🟣 Planning | Express, Fastify, Koa, Hono                                  | [View Project](link-to-repo) | REST APIs              |
-| node-collection-database-explorer              | A webpage for connecting to, exploring the data of, and operating on various databases | 🟣 Planning | React, TanStack Router, Express, SQLite, PostgreSQL, MongoDB | [View Project](link-to-repo) | Working with Databases |
+| Project                                        | Description                                                                            | Status         | Technologies                                                 | Link                                                                                    | Section                |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------- |
+| node-collection-production-grade-rest-api      | A REST API focusing on production-ready steps and functionality                        | 🟡 In Progress | Express, related libraries                                   | [View Project](https://github.com/logan-tm/nodejs-collection-production-grade-rest-api) | REST APIs              |
+| node-collection-rest-api-framework-exploration | A project containing the same REST API build using different frameworks                | 🟣 Planning    | Express, Fastify, Koa, Hono                                  | Pending                                                                                 | REST APIs              |
+| node-collection-database-explorer              | A webpage for connecting to, exploring the data of, and operating on various databases | 🟣 Planning    | React, TanStack Router, Express, SQLite, PostgreSQL, MongoDB | Pending                                                                                 | Working with Databases |
 
 ## Status Legend
 
